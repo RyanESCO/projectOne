@@ -1,0 +1,31 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+}
+
+.modal-custom-text {
+	text-align:left;	
+}
+
+img {
+	margin: 0 auto;
+}
+.text-muted {
+	color:#BCBBBB;	
+}
+
+.text-thin {
+	font-weight: 100;	
+}
+
+.title-super {
+	font-size:	60px;	
+}
+
+.title-logo {
+	margin-top:	20px;	
+}
+
+.modal-dialog{
+	padding-top: 40%;
+}
